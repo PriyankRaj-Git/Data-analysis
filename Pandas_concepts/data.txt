@@ -1,0 +1,1 @@
+This folder is created to practice the concepts of pandas. It contains the data file which is used in the pandas practice notebook.
