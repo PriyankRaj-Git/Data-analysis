@@ -3,5 +3,5 @@
 
 # To find the name start with specific letter or not (eg. G) : df[df[column].str.startswith("G")]
                                                         OR
-                                                            df[df[column].str[0]=="G"]
+                                                             : df[df[column].str[0]=="G"]
 
