@@ -5,3 +5,14 @@
                                                         OR
                                                              : df[df[column].str[0]=="G"]
 
+
+# .size()  : It is used to counts the number of rows in each group formed by groupby.
+             Means in short way it counts the no. of elements in each group.
+
+
+# .map(function_name)  : It is used to apply the function in each and every column.
+
+
+# How to delete a col in pandas : del df["column_name"]    OR    df.drop("column_name", axis=1, inplace=True)     
+                                 //Here in this way it            //Here in this way it need inplace=True
+                                 dont need inplace=True 
